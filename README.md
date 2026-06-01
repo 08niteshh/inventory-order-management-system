@@ -150,7 +150,7 @@ Add these GitHub repository secrets to automatically publish the backend image:
 ## Submission Links
 
 - GitHub Repository: `https://github.com/08niteshh/inventory-order-management-system`
-- Backend Docker Image: `PASTE_YOUR_BACKEND_DOCKER_HUB_LINK_HERE`
+- Backend Docker Image: `https://hub.docker.com/r/8nitesh/inventory-backend`
 - Frontend Docker Image: `PASTE_YOUR_FRONTEND_DOCKER_HUB_LINK_HERE`
 - Live Backend URL: `PASTE_YOUR_RENDER_BACKEND_URL_HERE`
 - Live Frontend URL: `PASTE_YOUR_VERCEL_FRONTEND_URL_HERE`
