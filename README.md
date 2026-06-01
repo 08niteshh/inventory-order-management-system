@@ -141,9 +141,15 @@ docker push yourdockerhubusername/inventory-backend:latest
 docker push yourdockerhubusername/inventory-frontend:latest
 ```
 
+This repository also includes a GitHub Actions workflow at `.github/workflows/docker-backend.yml`.
+Add these GitHub repository secrets to automatically publish the backend image:
+
+- `DOCKERHUB_USERNAME`
+- `DOCKERHUB_TOKEN`
+
 ## Submission Links
 
-- GitHub Repository: `PASTE_YOUR_GITHUB_REPO_LINK_HERE`
+- GitHub Repository: `https://github.com/08niteshh/inventory-order-management-system`
 - Backend Docker Image: `PASTE_YOUR_BACKEND_DOCKER_HUB_LINK_HERE`
 - Frontend Docker Image: `PASTE_YOUR_FRONTEND_DOCKER_HUB_LINK_HERE`
 - Live Backend URL: `PASTE_YOUR_RENDER_BACKEND_URL_HERE`
