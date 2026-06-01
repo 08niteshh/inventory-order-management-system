@@ -153,6 +153,6 @@ Add these GitHub repository secrets to automatically publish the backend image:
 
 - GitHub Repository: `https://github.com/08niteshh/inventory-order-management-system`
 - Backend Docker Image: `https://hub.docker.com/r/8nitesh/inventory-backend`
-- Frontend Docker Image: `PASTE_YOUR_FRONTEND_DOCKER_HUB_LINK_HERE`
-- Live Backend URL: `PASTE_YOUR_RENDER_BACKEND_URL_HERE`
-- Live Frontend URL: `PASTE_YOUR_VERCEL_FRONTEND_URL_HERE`
+- Frontend Docker Image: `Not required by assessment submission form`
+- Live Backend URL: `https://inventory-backend-jaax.onrender.com`
+- Live Frontend URL: `https://inventory-order-management-system-lemon.vercel.app`
